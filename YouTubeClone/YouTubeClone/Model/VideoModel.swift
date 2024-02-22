@@ -96,8 +96,8 @@ struct VideoModel: Decodable {
             
             // MARK: - Thumbnails
             struct Thumbnails: Decodable {
-                let medium: Default
-                let high: Default
+                let medium: Default?
+                let high: Default?
 
                 enum CodingKeys: String, CodingKey {
                     case medium

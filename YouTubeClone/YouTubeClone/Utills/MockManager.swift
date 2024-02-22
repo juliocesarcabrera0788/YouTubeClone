@@ -8,5 +8,5 @@
 import Foundation
 class MockManager{
     static var shared = MockManager()
-    var runAppWithMock = true
+    var runAppWithMock = false
 }
