@@ -1,0 +1,112 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Qb1-4qnZQr6yDBldai6nL_Rbvy4",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LMxQplVVPPtZpP2YAE_P7DiFgeA",
+            "id": "UExUX09PYktaM0NwdE91M0E2X012LWxrN2lQVV9zYk5xNS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-08-30T06:18:07Z",
+                "channelId": "UC_I_lCplbwIf60iUgsTE79g",
+                "title": "Cómo crear Shapes en SwiftUI - De Básico a Avanzado - #1",
+                "description": "En este video te doy una introducción a los Shapes y vamos a comenzar a utilizar los paths mas básicos como son move y addLine. \n\nEn esta serie de videos vamos a ir abordando paso a paso la creación de shapes, la idea es que puedas entender al 100% cómo crear Shapes y también te mostraré una herramienta que desarrollé que te permitirá fácilmente crear Shapes complejas de una forma muy sencilla.\n\n\nSUSCRIBETE AL CANAL\nhttps://bit.ly/3n6ttur\n\nPlaylist del Curso Completo:\nhttps://www.youtube.com/playlist?list=PLT_OObKZ3CptOu3A6_Mv-lk7iPU_sbNq5\n\n\nDescarga Sketch:\nhttps://www.sketch.com/updates/\n\n-- Timestamps --\n00:00 Introducción\n00:30 Ejemplos de lo que puedes lograr\n01:44 Introducción al Generador de Shapes\n02:50 Shapes Básicos y Stroke\n04:48 Creación de un Shape Personalizado\n07:50 Coordenadas utilizadas\n08:43 Ejemplos en Sketch\n11:22 Creación Triangulo \n16:57 Creación Cuadrilátero\n\nTwitter: \nhttps://twitter.com/VictorRoldanDev\n\nContacto: \nvictorroldan.dev@gmail.com\n\n#ShapesSwiftUI, #ShapesPath #iOSDevelopment #iOSProgramming #Swift #VictorRoldanDev #CursoDeSwift #TutorialesDeSwift",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gZGg5QP-sj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gZGg5QP-sj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gZGg5QP-sj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gZGg5QP-sj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gZGg5QP-sj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Victor Roldan Dev",
+                "playlistId": "PLT_OObKZ3CptOu3A6_Mv-lk7iPU_sbNq5",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gZGg5QP-sj4"
+                },
+                "videoOwnerChannelTitle": "Victor Roldan Dev",
+                "videoOwnerChannelId": "UC_I_lCplbwIf60iUgsTE79g"
+            },
+            "contentDetails": {
+                "videoId": "gZGg5QP-sj4",
+                "videoPublishedAt": "2022-08-30T14:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bHiwkmT9nxXlhzZrPKmDAG4PCw4",
+            "id": "UExUX09PYktaM0NwdE91M0E2X012LWxrN2lQVV9zYk5xNS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-09-01T04:49:29Z",
+                "channelId": "UC_I_lCplbwIf60iUgsTE79g",
+                "title": "Cómo crear Shapes en SwiftUI - Path Arc - De Básico a Avanzado - #2",
+                "description": "En este video vamos a utilizar un el tipo de path llamado Arc, vamos a pasear por cada uno de sus atributos y qué tanto podemos hacer con este tipo de path.\n\nEn esta serie de videos vamos a ir abordando paso a paso la creación de shapes, la idea es que puedas entender al 100% cómo crear Shapes y también te mostraré una herramienta que desarrollé que te permitirá fácilmente crear Shapes complejas de una forma muy sencilla.\n\n\nSUSCRIBETE AL CANAL\nhttps://bit.ly/3n6ttur\n\nPlaylist del Curso Completo:\nhttps://www.youtube.com/playlist?list=PLT_OObKZ3CptOu3A6_Mv-lk7iPU_sbNq5\n\nDescarga Sketch:\nhttps://www.sketch.com/updates/\n\n-- Timestamps --\n00:00 Introducción\n00:54 Creación de Path Arc\n\nTwitter: \nhttps://twitter.com/VictorRoldanDev\n\nContacto: \nvictorroldan.dev@gmail.com\n\n#ShapesSwiftUI, #ShapesPath #ShapePathArc #iOSDevelopment #iOSProgramming #Swift #VictorRoldanDev #CursoDeSwift #TutorialesDeSwift",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUXNB64PsZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUXNB64PsZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUXNB64PsZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zUXNB64PsZ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zUXNB64PsZ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Victor Roldan Dev",
+                "playlistId": "PLT_OObKZ3CptOu3A6_Mv-lk7iPU_sbNq5",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zUXNB64PsZ0"
+                },
+                "videoOwnerChannelTitle": "Victor Roldan Dev",
+                "videoOwnerChannelId": "UC_I_lCplbwIf60iUgsTE79g"
+            },
+            "contentDetails": {
+                "videoId": "zUXNB64PsZ0",
+                "videoPublishedAt": "2022-09-01T11:00:39Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 2,
+        "resultsPerPage": 2
+    }
+}
